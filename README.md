@@ -17,4 +17,4 @@ Essas atividades tem como foco principal o desenvolvimento da prática dos conce
 
 As tecnológias utilizadas foram:
 
-![Badge](https://img.shields.io/static/v1?label=&message=SQLServer&color=808080&style=for-the-badge)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
