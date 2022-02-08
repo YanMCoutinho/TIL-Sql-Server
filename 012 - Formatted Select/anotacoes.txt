@@ -1,0 +1,16 @@
+SELECT * FROM tblFornecedor
+busca todos (*) os elementos da tabela fornecedor 
+
+SELECT id, nome FROM tblFornecedor
+retorna o id e o nome da tabela fornecedor
+
+SELECT nome AS CLEITON FROM tblFornecedor
+retorna os nomes da tabela, só que o título desse campo seria "CLEITON"
+
+SELECT nomes FROM tblFornecedor WHERE id = 2
+
+via retornar todos os nomes que tem id 2 da tabela 
+
+SELECT 'Empresa: ' + nomes AS nome FROM tblFornecedor
+
+Vai retornar todos os nomes com Empresa: no ínicio e o título seria nome
